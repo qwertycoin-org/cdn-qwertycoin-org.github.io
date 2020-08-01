@@ -1,0 +1,45 @@
+You could upgrade your Daemons to newest stable Qwertycoin 5.0.1. 
+
+-Hunter (package manager)
+-Added configuration file for Hunter (package manager)
+-Changed Boost version to 1.66.0
+-Added polly submodule with cmake toolchains for cross compilation
+-Build all targets by default
+-Improved build times
+
+You need Cmake Version >= 3.10 
+
+You can easily update your cmake with this guide: https://github.com/qwertycoin-org/qwertycoin/blob/master/docs/install_cmake
+
+My recommended approach:
+
+0) Before shutdown your running services do the steps 1 - 7 (For minimize downtimes)
+1) Create a new folder on your server
+2) Go to this folder:
+
+git clone --recurse-submodules https://github.com/qwertycoin-org/qwertycoin
+
+3) Go to ./qwertycoin
+4) Create folder build
+5) navigate in ./build
+6) cmake .. and wait a few minutes
+Reason: Qwertycoin is introduce a new own package manager for cmake and boost and all other needed libraries. It's an all in one installer
+
+It will download all necessary Qwertycoin build files to $HOME/.hunter and start compile Qwertycoin Package.
+
+7) After everything is done you can build your Daemon with this Command:
+cmake --build . --config Release
+
+If all went well, it will complete successfully, and you will find all your binaries in the ./build/src directory.
+
+After this you can shutdown your old Daemon and replace it with the new compiled Daemon.
+
+Note: 
+Qwertycoind was renamed to qwertycoind and the default Folder for the Blockchain is now 
+Qwertycoin instead of Qwertycoin-v4 or other naming.
+
+Change your old Qwertycoin-v4 Folder to Qwertycoin before start the new Daemon.
+If you receive any issue while import the previous blockchain on your device you can replace the blocks.bin and blockindexes.bin with bootstrap file: https://blockchain.qwertycoin.org/snapshot_2019-02-23.tar.gz
+
+
+If errors occur please contact us and we will help you with the implementation.

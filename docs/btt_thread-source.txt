@@ -1,0 +1,167 @@
+[b][url=https://bitcointalk.org/index.php?topic=3032209]Dutch[/url] | [url=https://bitcointalk.org/index.php?topic=3033657]German[/url] | [url=https://bitcointalk.org/index.php?topic=3058774.0]French[/url] | [url=https://bitcointalk.org/index.php?topic=3121427]Italian[/url] | [url=https://bitcointalk.org/index.php?topic=3060831.0]Espanol[/url] | [url=https://bitcointalk.org/index.php?topic=23048.msg31213179#msg31213179]Estonian[/url] | [url=https://bitcoint alk.org/index.php?topic=3035445]Portuguese[/url] |  [url=https://bitcointalk.org/index.php?topic=2944506]Indonesian[/url] | [url=https://bitcointalk.org/index.php?topic=2945407]Russian[/url] | [url=https://bitcointalk.org/index.php?topic=3027773]Turkish[/url] | [url=https://bitcointalk.org/index.php?topic=3030499.0]Chinese[/url] | [url=https://bitcointalk.org/index.php?topic=3033254.0]Korean[/url] | Language missing? translate this post for 175,000 QWC [url=https://bitcointalk.org/index.php?topic=2881418.msg29612839#msg29612839]click here[/url][/b][hr]
+
+[center][b][size=28pt][color=purple]Qwertycoin [QWC] - Cryptocurrency[/color][/size][/b][/center]
+
+[center] [b] [url=https://qwertycoin.org/] Website[/url] | [url=http://xplorer.qwertycoin.org/]Block Explorer[/url] | [url=http://htts://qwertycoin.site/]Official Mining Pool[/url] | [url=https://faucet.qwertycoin.org/]Faucet[/url] | [url=https://paperwallet.qwertycoin.org/] Paperwallet[/url] | [url=https://qwertycoin.org/downloads/]Download Wallet[/url] | [url=https://github.com/qwertycoin-org]Source code[/url][/b] [/center]
+
+[center][color=red][size=16pt]Mandatory update. Update at height 30,600. Please update your wallets![/size][/color][/center]
+[center]Minor Updates on Height 30,600. Please update your wallets before Block Height 40,000 (approximated Date ~ End of March).[/center]
+
+[hr]
+
+[color=purple][b]About:[/b][/color]
+[img]https://qwertycoin.org/wp-content/uploads/2018/01/QWN_Banner_2_2.png[/img]
+Qwertycoin QWC is a cryptocurrency, a kind of decentralized digital money, like Bitcoin. It is based on CryptoNote anonymous technology.
+Nobody owns or controls Qwertycoin, it uses peer-to-peer technology and fair ASIC-resistant PoW mining process to operate with no central authority.
+
+Qwertycoin provides instant worldwide privacy protected transactions and untraceable encrypted payment transfers with almost zero processing fees in decentralized peer-to-peer users network. Mathematics secures the QWC network and empowers individuals to control their own finances and information.
+
+Your private key is your bank account, with no censorship and surveillance.
+
+[color=purple][b]Coin Specifications:[/b][/color]
+[list]
+[li]Mining algorithm: PoW, Cryptonight[/li]
+[li]Difficulty algorithm: Zawy[/li]
+[li]Fork: Karbo, Monero, Bytecoin, Digitalnote[/li]
+[li]Supply: Absolute maximum of, 184 billion QWC + Tail emission plans[/li]
+[li]Block time: [b]120 Seconds[/b][/li]
+[li]Currency units: 8 | Maturity depth:[b] 60 blocks[/b][/li]
+[li]Mining: CPU and GPU mining supported[/li]
+[li]Block reward: QWC's Block reward decreases each block. Infos [url=https://qwertycoin.org]here[/url][/li]
+[li]Difficulty: Retargets at every block[/li]
+[li]P2P|PPC-bind-port: 8196 | 8197[/li]
+[li]Open "Masternodes" run your own Network Daemon and use it in our Desktop Wallets with this Function your PC Wallet can be used as a light wallet, so you don't have to download the complete Blockchain and got a small reward while using your own Remote Daemon.[/li]
+[/list]
+[hr]
+
+[color=purple][b]Road map:[/b][/color]
+[list]
+    [li][url=https://qwertycoin.org/about/roadmap/]https://qwertycoin.org/about/roadmap/[/url][/li]
+[/list]
+
+[color=purple][b]Block Explorer:[/b][/color]
+[list]
+   [li][url=https://qwertycoin.org/about/how-to-join/#explorer][b]Overview[/b][/url][/li]
+   [li][url=http://xplorer.qwertycoin.org/]http://xplorer.qwertycoin.org/[/url][/li]
+[/list]
+
+[color=purple][b]Trading:[/b][/color]
+[list]
+   [li][url=https://qwertycoin.org/about/how-to-join/#exchange][b]Overview[/b][/url][/li]
+   [li][url=https://qwertycoin.org/ex/octaex]OctaEx (交易平台)[/url][/li]
+   [li][url=https://qwertycoin.org/ex/crepexchange]CREP exchange[/url][/li]
+   [li]More Exchanges are coming soon (After Block height 60,000)[/li]
+[/list]
+
+[color=purple][b]Pools:[/b][/color]
+[list]
+   [li][url=https://qwertycoin.org/about/how-to-join/#pools][b]Overview[/b][/url][/li]
+   [li][url=https://qwertycoin.site]https://qwertycoin.site[/url][/li]
+   [li][url=http://pool.ahka.net/qwertycoin/]http://pool.ahka.net/qwertycoin/[/url][/li]
+   [li][url=http://cryptoknight.cc/qwerty/]http://cryptoknight.cc/qwerty/[/url][/li]
+   [li][url=http://qwerty.poolminer.work/]http://qwerty.poolminer.work/[/url][/li]
+   [li][url=http://pool.mineallcrypto.com]http://pool.mineallcrypto.com[/url][/li]
+   [li][url=http://superblockchain.con-ip.com]http://superblockchain.con-ip.com[/url][/li]
+   [li][url=http://qwertycoin.poolmining.it/]http://qwertycoin.poolmining.it[/url][/li]
+   [li][url=https://qwc.dreampool.info/]http://sqwc.dreampool.info[/url][/li]
+   [li][url=http://qwcpool.partyvibe.com/]http://qwcpool.partyvibe.com[/url][/li]
+[/list]
+
+[hr]
+
+[size=14pt][color=purple]Desktop- and Lite Wallets:[/color][/size]
+[img]https://qwertycoin.org/files/press/other/qwcwallet-small.png[/img]
+Once you open Qwertycoin Wallet, it will automatically create your first Qwertycoin address and start synchronizing with the network.
+It is highly recommended that you encrypt your new wallet with a password. Leaving the wallet unprotected makes it vulnerable in case your system is compromised.
+To encrypt your wallet, choose “Settings” menu and then “Encrypt wallet”.
+
+Qwertycoin Wallet introduces several new files stored in the standard Qwertycoin folder:
+
+[quote]Windows:
+C:\Users\%user_name%\AppData\Roaming\qwertycoin\
+
+OSX/Linux:
+ ~/.qwertycoin/[/quote]
+
+[size=14pt][color=purple]Get Wallet:[/color][/size]
+
+[b]Windows:[/b]
+[list]
+[li]https://qwertycoin.org/get/gui/latest/windows64[/li]
+[li]https://qwertycoin.org/get/gui/latest/windows32[/li]
+[/list]
+[b]MacOS:[/b]
+[list]
+[li]https://qwertycoin.org/get/gui/latest/macos[/li]
+[/list]
+[b]Linux:[/b]
+[list]
+[li]https://qwertycoin.org/get/gui/latest/linux[/li]
+[/list]
+
+[color=purple][b]Light Wallet[/b][/color]
+
+It is possible to use wallet without blockchain, in remote mode it will be connected to the remote node. This allows to get fully functional wallet in minutes.
+Just select remote node in settings and restart wallet if you're using GUI, or run simplewallet with --daemon-address or --daemon-host & --daemon-port flags. It is quite safe, the node can't steal your coins.
+[list]
+[li]node-00.qwertycoin.org:8197[/li]
+[li]node-04.qwertycoin.org:8197[/li]
+[li]Run your own node, and paste your IP there[/li]
+[/list]
+
+[hr]
+
+[color=purple][b]Solo mining[/b][/color]
+
+How to solo mine with the CLI release
+1. Download CLI release from
+2. Extract the release to any folder or directory
+3. Run the daemon, qwertycoind. Then start simplewallet and open or create a wallet. You can open it later in GUI.
+4. In simplewallet, type "start_mining x", x being the number of CPU cores you wish to mine with.
+5. Check your hash rate by typing "show_hr" in qwertyoind. Hide it by typing "hide_hr".
+
+[b]Alternatively you can run the daemon, qwertycoind with these flags: --start-mining YOUR_WALLET_ADDRESS --mining-threads 3[/b] - much more easy
+Or you can download the GUI and start Mining. Solo, or in a Pool.
+
+[hr]
+
+[color=purple][b]Masternodes[/b][/color]
+
+Cryptonote coin's wallets can operate through remote daemon without downloading blockchain. It allows to start working quickly when needed. It is quite safe as remote daemon can't steal your coins, running own node is more secure of course. But these remote nodes are not rewarded anyhow in any CN coin. Qwertycoins remote nodes are rewarded for their service.
+
+So, basically, Masternode it is the CLI Qwertycoin daemon running on a machine with open port which allows to connect to it for such light wallets and, most important, mobile wallets in the future. Qwertycoin wallets, connected to Masternode, are paying small fees to that node when are sending transactions through it. These fees are supposed to help to cover the costs of operating Qwertycoin nodes.
+
+These Masternodes are providing service necessary for mobile wallets, and besides are helping to maintain and enlarge Qwertycoin network. We have plans no incentivize such nodes even more in the future. 
+
+To start own Qwertycoin masternode all is needed is just a machine with static IP and open port. Machine should have enough CPU power to handle load when parsing blockchain for connected wallets, it can be even spare PC at home. On such machine you can run qwertycoin daemon  specifying a wallet address where fees would go like this:
+[code]./qwertycoind --restricted-rpc --enable-cors=*  --enable-blockchain-indexes --rpc-bind-ip=0.0.0.0 --rpc-bind-port=8197 --fee-address=QWC1L4aAh5i7cbB813RQpsKP6pHXT2ymrbQCwQnQ3DC4QiyuhBUZw8dhAaFp8wH1Do6J9Lmim6ePv1SYFYs97yNV2xvSbTGc7s[/code] You can specify any wallet address, it can be your GUI wallet address, even paper wallet. This is the wallet where you will receive fees.
+You need to make sure your port is open and not blocked by firewall. If you are running it at home behind router you need to do port forwarding.
+
+If you have PC at home  constantly running with fast connection and static IP and  want to operate such Masternode to help Qwertycoin network, run daemon as in example and send a Pull Request on Github https://github.com/qwertycoin-org/qwertycoin/pulls So we can add it do default nodes list. 
+You can check if your node is running opening its IP in browser  like this [code]http://45.77.103.210:8197/feeaddress[/code] and you should see something like this [code]{"fee_address":"QWC1L4aAh5i7cbB813RQpsKP6pHXT2ymrbQCwQnQ3DC4QiyuhBUZw8dhAaFp8wH1Do6J9Lmim6ePv1SYFYs97yNV2xvSbTGc7s","status":"OK"}
+[/code] with your wallet address where fees should go.
+
+You can also run Masternode on VPS with dedicated domain and publish here with description so people can add your node manually if they prefer it. It is not recommended to run node on VPS now specially for Qwertycoin, do it only when you already have spare VPS and it is idling.
+
+For now, do not expect yet to earn a lot of fees because there is very low usage of such remote nodes. 
+
+[color=purple][b]Donate to the Qwertycoin Project:[/b] [/color]
+
+[code]BTC: 1DkocMNiqFkbjhCmG4sg9zYQbi4YuguFWw
+ETH: 0xA660Fb28C06542258bd740973c17F2632dff2517
+BCH (Bitcoin Cash): qz975ndvcechzywtz59xpkt2hhdzkzt3vvt8762yk9
+XMR: 47gmN4GMQ17Veur5YEpru7eCQc5A65DaWUThZa9z9bP6jNMYXPKAyjDcAW4RzNYbRChEwnKu1H3qt9FPW9CnpwZgNscKawX
+ETN: etnkJXJFqiH9FCt6Gq2HWHPeY92YFsmvKX7qaysvnV11M796Xmovo2nSu6EUCMnniqRqAhKX9AQp31GbG3M2DiVM3qRDSQ5Vwq[/code]
+
+[b]Donations will go towards infrastructure maintenance. development, Bounties and for Paying the Listing Fee on Exchanges.[/b]
+
+[hr]
+
+[color=purple][b]Other Information and Links:[/b][/color]
+[url=https://qwertycoin.org/discord][img]https://qwertycoin.org/files/social-media-icons/32x32/discord.png[/img][/url][url=https://qwertycoin.org/telegram][img]https://qwertycoin.org/files/social-media-icons/32x32/telegram.png[/img][/url][url=https://qwertycoin.org/twitter][img]https://qwertycoin.org/files/social-media-icons/32x32/twitter.png[/img][/url][url=https://qwertycoin.org/facebook][img]https://qwertycoin.org/files/social-media-icons/32x32/facebook.png[/img][/url][url=https://qwertycoin.org/reddit][img]https://qwertycoin.org/files/social-media-icons/32x32/reddit.png[/img][/url][url=https://qwertycoin.org/github][img]https://qwertycoin.org/files/social-media-icons/32x32/github.png[/img][/url][url=https://qwertycoin.org/rss][img]https://qwertycoin.org/files/social-media-icons/32x32/rss.png[/img][/url][url=https://qwertycoin.org/][img]https://qwertycoin.org/files/social-media-icons/32x32/website.png[/img][/url]
+[url=https://downloads.getmonero.org/whitepaper_annotated.pdf]Annotated Cryptonote Whitepaper[/url]
+
+[color=purple][b]License:[/b][/color]
+[b]Qwertycoin is licensed under the "MIT License" for more info, refer to the [url=https://github.com/qwertycoin-org/qwertycoin/blob/master/LICENSE]License[/url] file.[/b]
+
+[center][b]No endorsement of third party services is implied. Use at your own risk. In the event of forks or other network issues be sure any service you use is properly updated and supporting the correct chain.[/b][/center]

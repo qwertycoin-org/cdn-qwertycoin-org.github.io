@@ -1,0 +1,184 @@
+[b][url=https://bitcointalk.org/index.php?topic=3032209]Dutch[/url] | [url=https://bitcointalk.org/index.php?topic=3033657]German[/url] | [url=https://bitcointalk.org/index.php?topic=3058774.0]French[/url] | [url=https://bitcointalk.org/index.php?topic=3121427]Italian[/url] | [url=https://bitcointalk.org/index.php?topic=3060831.0]Espanol[/url] | [url=https://bitcointalk.org/index.php?topic=23048.msg31213179#msg31213179]Estonian[/url] | [url=https://bitcoint alk.org/index.php?topic=3035445]Portuguese[/url] |  [url=https://bitcointalk.org/index.php?topic=2944506]Indonesian[/url] | [url=https://bitcointalk.org/index.php?topic=2945407]Russian[/url] | [url=https://bitcointalk.org/index.php?topic=3027773]Turkish[/url] | [url=https://bitcointalk.org/index.php?topic=3030499.0]Chinese[/url] | [url=https://bitcointalk.org/index.php?topic=3033254.0]Korean[/url] | Language missing? translate this post for 17,500 QWC [url=https://bitcointalk.org/index.php?topic=2881418.msg29612839#msg29612839][u]click here[/u][/url][/b]
+[hr]
+[img]https://cdn.qwertycoin.org/images/other/btt/en/top.png[/img]
+[color=brown][url=https://qwertycoin.org/] Website[/url] - [url=http://explorer.qwertycoin.org/]Block Explorer[/url] - [url=https://nodes.qwertycoin.org/]Masternodes Map[/url] - [url=https://qwertycoin.site/]Official Mining Pool[/url] - [url=https://faucet.qwertycoin.org/]Faucet[/url] - [url=https://paperwallet.qwertycoin.org/] Paperwallet[/url] - [url=https://qwertycoin.org/downloads/]Download Wallet[/url] - [url=https://github.com/qwertycoin-org]Source code[/url][/color]
+
+[size=13pt]
+Qwertycoin [b]QWC[/b] is a real [b]community cryptocurrency[/b], a kind of decentralized digital money, like Bitcoin.
+It is [b]based[/b] on CryptoNote [b]anonymous technology[/b].
+Nobody owns or controls Qwertycoin, it uses peer-to-peer technology and fair [b]ASIC-resistant[/b] PoW [b]mining[/b] process
+to operate with no central authority.
+
+[b]Qwertycoin[/b] provides [b]instant[/b] worldwide [b]privacy[/b] protected [b]transactions[/b] and 
+untraceable [b]encrypted[/b] payment [b]transfers [/b] with low fees in decentralized peer-to-peer users network.
+Mathematics secures the [b]QWC[/b] network and empowers individuals to control their own finances and information.
+
+[b]Your private key is your bank account, with no censorship and surveillance.[/b]
+[/size]
+[img]https://cdn.qwertycoin.org/images/other/btt/en/specs.png[/img]
+
+[img]https://cdn.qwertycoin.org/images/other/btt/en/explorer.png[/img]
+[size=13pt]
+[url=https://explorer.qwertycoin.org/][b]explorer.qwertycoin.org[/b][/url]
+[url=https://qwertycoin.win/]www.qwertycoin.win[/url]
+[url=http://blockexplorer.pw/qwc/]www.blockexplorer.pw/qwc[/url]
+[/size]
+
+[img]https://cdn.qwertycoin.org/images/other/btt/en/tracker.png[/img]
+[size=13pt]
+[url=https://altcoinindex.com/coin/qwc/]www.altcoinindex.com[/url]
+[url=https://awebanalysis.com/en/coin-details/qwertycoin-qwc/]www.awebanalysis.com[/url]
+[url=https://coinlib.io/coin/QWC/Qwertycoin][b]www.coinlib.io[/b][/url]
+[url=https://www.coingecko.com/en/coins/qwertycoin][b]www.coingecko.com[/b][/url]
+[url=https://coinranking.com/coin/qwertycoin-qwc]www.coinranking.com[/url]
+[url=https://www.cryptocompare.com/coins/qwc/overview/BTC]www.cryptocompare.com[/url]
+[url=https://chasing-coins.com/coin/QWC]www.chasing-coins.com[/url]
+[url=https://finrazor.com/assets/QWC]www.finrazor.com[/url]
+[url=https://www.livecoinwatch.com/price/Qwertycoin-QWC][b]www.livecoinwatch.com[/b][/url]
+[url=https://marketcoinprice.com/coin/QWC]www.marketcoinprice.com[/url]
+[url=https://neironix.io/de/cryptocurrency/qwertycoin]www.neironix.io[/url]
+[url=https://radarzero.com/token/qwc]www.radarzero.com[/url]
+[url=https://www.reliablecoin.com/coin/qwertycoin-qwc/]www.reliablecoin.com[/url]
+[/size]
+
+[img]https://cdn.qwertycoin.org/images/other/btt/en/trading.png[/img]
+[size=13pt]
+[color=maroon][b]Pairing: Bitcoin[/b][/color]
+[url=https://altex.exchange/markets&pair=BTC_QWC&ref=517]QWC:BTC | Altex.exchange[/url]
+[url=https://bit.ly/2IsC8zq]QWC:BTC | Bitexlive[/url]
+[url=https://crex24.com/de/exchange/QWC-BTC]QWC:BTC | Crex24[/url]
+
+[color=maroon][b]Pairing: Litecoin[/b][/color]
+[url=https://altex.exchange/markets&pair=LTC_QWC&ref=517]QWC:LTC | Altex.exchange[/url]
+
+[color=maroon][b]Pairing: Monero[/b][/color]
+[url=https://altex.exchange/markets&pair=XMR_QWC&ref=517]QWC:XMR | Altex.exchange[/url]
+
+[color=maroon][b]Pairing: Dogecoin[/b][/color]
+[url=https://altex.exchange/markets&pair=DOGE_QWC&ref=517]QWC:DOGE | Altex.exchange[/url]
+[url=https://bit.ly/2IsC8zq]QWC:DOGE | Bitexlive[/url]
+[/size]
+
+[img]https://cdn.qwertycoin.org/images/other/btt/en/pools.png[/img]
+[size=13pt]
+[url=https://explorer.qwertycoin.org/#pools][color=maroon][b][u]Click here[/u][/b][/color][/url] to see all our recommended Qwertycoin Mining Pools with Livestats
+
+[url=https://pool.qwertycoin.org][b]pool.qwertycoin.org[/b][/url] (Official #1)
+[url=https://qwertycoin.site][b]qwertycoin.site[/b][/url] (Official #2)
+[url=https://superblockchain.con-ip.com/qwc]superblockchain.con-ip.com/qwc[/url]
+[url=https://mineallcrypto.com/qwerty]mineallcrypto.com[/url]
+[url=http://youpool.io/QWERTY]youpool.io/QWERTY[/url]
+[url=https://easyhash.pro/qwc]easyhash.pro/qwc[/url]
+[url=https://cryptoknight.cc/qwerty]cryptoknight.cc/qwerty[/url]
+[url=https://getpool.org/qwc]getpool.org/qwc[/url]
+[url=https://qwcpool.partyvibe.com]qwcpool.partyvibe.com[/url]
+[/size]
+
+[img]https://cdn.qwertycoin.org/images/other/btt/en/blockchain.png[/img]
+[size=13pt]
+[b]Download[/b] a large [b]Blockchain[/b] file for [b]faster sync[/b]hronization from
+our official Download Storage or from a3rd party mirror:
+
+[url=https://blockchain.qwertycoin.org/]blockchain.qwertycoin.org[/url]
+[url=https://zippyblocks.com/]zippyblocks.com[/url]
+[/size]
+
+[img]https://cdn.qwertycoin.org/images/other/btt/en/desklight.png[/img]
+[size=13pt]
+Once you [b]open[/b]ed [b]Qwertycoin Wallet[/b], you can create your first Qwertycoin address or open an already existing Qwertycoin
+address [b]and synchronize with the network[/b].
+It is highly recommended that you [b]encrypt your new wallet with a password[/b].
+Leaving the wallet unprotected makes it vulnerable in case your system is compromised.
+To encrypt your wallet, choose "Settings" menu and then "Encrypt wallet".
+
+You can [b]download[/b] a big [b]Blockchain file[/b] for saving time during synchronizing process from here: https://blockchain.qwertycoin.org
+Paste the downloaded, unzipped archive to:
+[/size]
+
+[quote]Windows:
+C:\Users\%user_name%\AppData\Roaming\Qwertycoin-v4\
+
+OSX/Linux:
+ ~/.Qwertycoin-v4/[/quote]
+
+[img]https://cdn.qwertycoin.org/images/other/btt/en/download.png[/img]
+[size=13pt]
+[b]Windows:[/b]
+https://qwertycoin.org/get/gui/latest/windows64
+https://qwertycoin.org/get/gui/latest/windows32
+
+[b]MacOS:[/b]
+https://qwertycoin.org/get/gui/latest/macos
+
+[b]Linux:[/b]
+https://qwertycoin.org/get/gui/latest/linux
+[/size]
+
+[img]https://cdn.qwertycoin.org/images/other/btt/en/lightsettings.png[/img]
+[size=13pt]
+It is possible to [b]use wallet without blockchain[/b], in remote mode it will be connected to the remote node.
+This [b]allows[/b] to get fully [b]functional wallet in minutes[/b]. Just [b]select remote node[/b] in settings and restart wallet if you're using GUI,
+[b]or run simplewallet[/b] with [b]--daemon-address or --daemon-host & --daemon-port[/b] flags.
+It's quite safe, the node can't steal your coins.
+
+If you [b]choose[/b] one of [b]the following nodes[/b] you will be connected to a random node running by community members.
+It's a smart idea to choose an server which are you located:
+
+[color=maroon][b]Asia:[/b][/color] as.qwertyno.de
+[color=maroon][b]Africa:[/b][/color] af.qwertyno.de
+[color=maroon][b]Antarctica:[/b][/color] an.qwertyno.de
+[color=maroon][b]Australia:[/b][/color] as.qwertyno.de
+[color=maroon][b]Europe:[/b][/color] eu.qwertyno.de
+[color=maroon][b]North America:[/b][/color] na.qwertyno.de
+[color=maroon][b]South Ameria:[/b][/color] sa.qwertyno.de
+[color=maroon]with Port: [b]8197[/b][/color]
+[/size]
+
+[img]https://cdn.qwertycoin.org/images/other/btt/en/solomining.png[/img]
+[size=13pt]
+[b]How to solo mine with the CLI release[/b]
+1. [url=https://qwertycoin.org/wallet/]Download CLI Wallet[/url] and extract it
+2. Run Qwertycoind
+After you are synchronized [b]run Qwertycoind[/b] again [b]with[/b] these flags: [b]--start-mining YOUR_WALLET_ADDRESS --mining-threads 4[/b]
+Or you can download the GUI and start Mining Solo, or in a Pool.
+[/size]
+
+[img]https://cdn.qwertycoin.org/images/other/btt/en/masternode.png[/img]
+[size=13pt]
+Cryptonote's [b]Wallets[/b] can [b]operate[/b] through [b]remote[/b] daemon without downloading blockchain. It allows to start working quickly when needed.
+It's quite safe as remote daemon can't steal your coins, [b]running own node is more secure[/b] of course.
+But these remote nodes are not rewarded anyhow in any CN coin. [b]Qwertycoins[/b] remote [b]nodes are rewarded for[/b] their [b]24/7 service[/b].
+[b]When People use your server you collect 0.25% fom every Transaction from this People but a maximum of 10 QWC per transaction.[/b]
+
+Read the full Guide [url=https://qwertycoin.org/how-to-run-a-qwerty-masternode/][b]Howto run an own Qwertycoin Masternode[/b][/url]
+[/size]
+
+[img]https://cdn.qwertycoin.org/images/other/btt/en/donate.png[/img]
+
+[code]
+BTC: 1DkocMNiqFkbjhCmG4sg9zYQbi4YuguFWw
+
+ERC20 compatible Token Wallet: 0x0703DB2425157F5ab3AD552CB703B6bFf72be834
+
+ETH: 0xA660Fb28C06542258bd740973c17F2632dff2517
+
+BCH (Bitcoin Cash): qz975ndvcechzywtz59xpkt2hhdzkzt3vvt8762yk9
+
+XMR: 47gmN4GMQ17Veur5YEpru7eCQc5A65DaWUThZa9z9bP6jNMYXPKAyjDcAW4RzNYbRChEwnKu1H3qt9FPW9CnpwZgNscKawX
+
+ETN: etnkJXJFqiH9FCt6Gq2HWHPeY92YFsmvKX7qaysvnV11M796Xmovo2nSu6EUCMnniqRqAhKX9AQp31GbG3M2DiVM3qRDSQ5Vwq[/code]
+
+[b]Donations will go towards infrastructure maintenance. development, Bounties and for Paying the Listing Fee on Exchanges.[/b]
+
+[hr]
+
+[color=maroon][b]Other Information and Links:[/b][/color]
+[url=https://qwertycoin.org/discord][img]https://cdn.qwertycoin.org/images/icons/social-media-icons/32x32/discord.png[/img][/url][url=https://qwertycoin.org/telegram][img]https://cdn.qwertycoin.org/images/icons/social-media-icons/32x32/telegram.png[/img][/url][url=https://qwertycoin.org/twitter][img]https://cdn.qwertycoin.org/images/icons/social-media-icons/32x32/twitter.png[/img][/url][url=https://qwertycoin.org/facebook][img]https://cdn.qwertycoin.org/images/icons/social-media-icons/32x32/facebook.png[/img][/url][url=https://qwertycoin.org/reddit][img]https://cdn.qwertycoin.org/images/icons/social-media-icons/32x32/reddit.png[/img][/url][url=https://qwertycoin.org/github][img]https://cdn.qwertycoin.org/images/icons/social-media-icons/32x32/github.png[/img][/url][url=https://qwertycoin.org/rss][img]https://cdn.qwertycoin.org/images/icons/social-media-icons/32x32/rss.png[/img][/url][url=https://qwertycoin.org/][img]https://cdn.qwertycoin.org/images/icons/social-media-icons/32x32/website.png[/img][/url]
+[url=https://downloads.getmonero.org/whitepaper_annotated.pdf]Annotated Cryptonote Whitepaper[/url]
+
+[color=maroon][b]License:[/b][/color]
+[b]Qwertycoin is licensed under the "MIT License" for more info, refer to the [url=https://github.com/qwertycoin-org/qwertycoin/blob/master/LICENSE]License[/url] file.
+No endorsement of third party services is implied. Use at your own risk. In the event of forks or other network issues be sure any service you use is properly updated and supporting the correct chain.[/b]
+
+
+[img]https://cdn.qwertycoin.org/images/other/btt/en/banner_qwc_btctalk_v2.png[/img]
